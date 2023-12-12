@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1dbde12-41b8-4a2c-9a16-c26159b52a1e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ZADANI.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machinet.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cz/fio/StoreContactApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cz/fio/controller/StoreContactController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cz/fio/service/StoreContactService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2ZRqXhDr8QQumGUIiXbi9IPPXss" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/vicga/IdeaProjects/java-test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vicga\IdeaProjects\java-test" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="java-test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="java-test" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1dbde12-41b8-4a2c-9a16-c26159b52a1e" name="Changes" comment="" />
+      <created>1702395280533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702395280533</updated>
+      <workItem from="1702395281512" duration="603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
+    <option name="historyDtoById">
+      <map>
+        <entry key="18bd97">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/ZADANI.txt" />
+                  <option value="$PROJECT_DIR$/src/main/java/cz/fio/StoreContactApp.java" />
+                </list>
+              </option>
+              <option name="id" value="18bd97" />
+              <option name="initiateTms" value="1702395721606" />
+              <option name="request" value="C:\Users\vicga\.jdks\corretto-17.0.9\bin\java.exe -XX:TieredStopAtLevel=1 -Dspring.output.ansi.enabled=always -Dcom.sun.management.jmxremote -Dspring.jmx.enabled=true -Dspring.liveBeansView.mbeanDomain -Dspring.application.admin.enabled=true &quot;-Dmanagement.endpoints.jmx.exposure.include=*&quot; &quot;-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.4\lib\idea_rt.jar=55584:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.4\bin&quot; -Dfile.encoding=UTF-8 -classpath C:\Users\vicga\IdeaProjects\java-test\target\classes;C:\Users\vicga\.m2\repository\org\apache\commons\commons-csv\1.8\commons-csv-1.8.jar;C:\Users\vicga\.m2\repository\org\springframework\boot\spring-boot-starter-web\2.7.9\spring-boot-starter-web-2.7.9.jar;C:\Users\vicga\.m2\repository\org\springframework\boot\spring-boot-starter\2.7.9\spring-boot-starter-2.7.9.jar;C:\Users\vicga\.m2\repository\org\springframework\boot\spring-boot\2.7.9\spring-boot-2.7.9.jar;C:\Users\vicga\.m2\repository\org\springframework\boot\spring-boot-autoconfigure\2.7.9\spring-boot-autoconfigure-2.7.9.jar;C:\Users\vicga\.m2\repository\org\springframework\boot\spring-boot-starter-logging\2.7.9\spring-boot-starter-logging-2.7.9.jar;C:\Users\vicga\.m2\repository\ch\qos\logback\logback-classic\1.2.11\logback-classic-1.2.11.jar;C:\Users\vicga\.m2\repository\ch\qos\logback\logback-core\1.2.11\logback-core-1.2.11.jar;C:\Users\vicga\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\vicga\.m2\repository\org\apache\logging\log4j\log4j-to-slf4j\2.17.2\log4j-to-slf4j-2.17.2.jar;C:\Users\vicga\.m2\repository\org\apache\logging\log4j\log4j-api\2.17.2\log4j-api-2.17.2.jar;C:\Users\vicga\.m2\repository\org\slf4j\jul-to-slf4j\1.7.36\jul-to-slf4j-1.7.36.jar;C:\Users\vicga\.m2\repository\jakarta\annotation\jakarta.annotation-api\1.3.5\jakarta.annotation-api-1.3.5.jar;C:\Users\vicga\.m2\repository\org\springframework\spring-core\5.3.25\spring-core-5.3.25.jar;C:\Users\vicga\.m2\repository\org\springframework\spring-jcl\5.3.25\spring-jcl-5.3.25.jar;C:\Users\vicga\.m2\repository\org\yaml\snakeyaml\1.30\snakeyaml-1.30.jar;C:\Users\vicga\.m2\repository\org\springframework\boot\spring-boot-starter-json\2.7.9\spring-boot-starter-json-2.7.9.jar;C:\Users\vicga\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.13.5\jackson-databind-2.13.5.jar;C:\Users\vicga\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.13.5\jackson-annotations-2.13.5.jar;C:\Users\vicga\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.13.5\jackson-core-2.13.5.jar;C:\Users\vicga\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jdk8\2.13.5\jackson-datatype-jdk8-2.13.5.jar;C:\Users\vicga\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.13.5\jackson-datatype-jsr310-2.13.5.jar;C:\Users\vicga\.m2\repository\com\fasterxml\jackson\module\jackson-module-parameter-names\2.13.5\jackson-module-parameter-names-2.13.5.jar;C:\Users\vicga\.m2\repository\org\springframework\boot\spring-boot-starter-tomcat\2.7.9\spring-boot-starter-tomcat-2.7.9.jar;C:\Users\vicga\.m2\repository\org\apache\tomcat\embed\tomcat-embed-core\9.0.71\tomcat-embed-core-9.0.71.jar;C:\Users\vicga\.m2\repository\org\apache\tomcat\embed\tomcat-embed-el\9.0.71\tomcat-embed-el-9.0.71.jar;C:\Users\vicga\.m2\repository\org\apache\tomcat\embed\tomcat-embed-websocket\9.0.71\tomcat-embed-websocket-9.0.71.jar;C:\Users\vicga\.m2\repository\org\springframework\spring-web\5.3.25\spring-web-5.3.25.jar;C:\Users\vicga\.m2\repository\org\springframework\spring-beans\5.3.25\spring-beans-5.3.25.jar;C:\Users\vicga\.m2\repository\org\springframework\spring-webmvc\5.3.25\spring-webmvc-5.3.25.jar;C:\Users\vicga\.m2\repository\org\springframework\spring-aop\5.3.25\spring-aop-5.3.25.jar;C:\Users\vicga\.m2\repository\org\springframework\spring-context\5.3.25\spring-context-5.3.25.jar;C:\Users\vicga\.m2\repository\org\springframework\spring-expression\5.3.25\spring-expression-5.3.25.jar cz.fio.StoreContactApp&#10;&#10;  .   ____          _            __ _ _&#10; /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \&#10;( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \&#10; \\/  ___)| |_)| | | | | || (_| |  ) ) ) )&#10;  '  |____| .__|_| |_|_| |_\__, | / / / /&#10; =========|_|==============|___/=/_/_/_/&#10; :: Spring Boot ::                (v2.7.9)&#10;&#10;2023-12-12 16:39:16.354  INFO 10380 --- [           main] cz.fio.StoreContactApp                   : Starting StoreContactApp using Java 17.0.9 on vika with PID 10380 (C:\Users\vicga\IdeaProjects\java-test\target\classes started by vicga in C:\Users\vicga\IdeaProjects\java-test)&#10;2023-12-12 16:39:16.356  INFO 10380 --- [           main] cz.fio.StoreContactApp                   : No active profile set, falling back to 1 default profile: &quot;default&quot;&#10;2023-12-12 16:39:17.041  INFO 10380 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)&#10;2023-12-12 16:39:17.047  INFO 10380 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]&#10;2023-12-12 16:39:17.047  INFO 10380 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.71]&#10;2023-12-12 16:39:17.119  INFO 10380 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext&#10;2023-12-12 16:39:17.119  INFO 10380 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 722 ms&#10;2023-12-12 16:39:17.435  WARN 10380 --- [           main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use&#10;2023-12-12 16:39:17.437  INFO 10380 --- [           main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]&#10;2023-12-12 16:39:17.448  INFO 10380 --- [           main] ConditionEvaluationReportLoggingListener : &#10;&#10;Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.&#10;2023-12-12 16:39:17.460 ERROR 10380 --- [           main] o.s.b.d.LoggingFailureAnalysisReporter   : &#10;&#10;***************************&#10;APPLICATION FAILED TO START&#10;***************************&#10;&#10;Description:&#10;&#10;Web server failed to start. Port 8080 was already in use.&#10;&#10;Action:&#10;&#10;Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.&#10;\&#10;&#10;Process finished with exit code 1&#10;" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Ошибка, которую вы получили, указывает на то, что веб-сервер не может быть запущен, потому что порт 8080 уже используется другим процессом. Вам нужно либо остановить процесс, который использует порт 8080, либо настроить ваше приложение на использование другого порта.&#10;&#10;Чтобы решить эту проблему, вы можете:&#10;&#10;1. Найти и остановить процесс, который использует порт 8080. Это можно сделать с помощью следующей команды в командной строке (для Windows):&#10;&#10;   ```&#10;   netstat -ano | findstr :8080&#10;   ```&#10;&#10;   Эта команда покажет процессы, использующие порт 8080. Вы можете затем остановить процесс, используя Диспетчер задач или команду `taskkill` с идентификатором процесса (PID).&#10;&#10;2. Изменить порт, который использует ваше приложение. Вы можете сделать это, добавив или изменив следующую строку в файле `application.properties` вашего проекта:&#10;&#10;   ```&#10;   server.port=8081&#10;   ```&#10;&#10;   Это настроит ваше приложение на использование порта 8081 вместо порта 8080.&#10;&#10;После того как вы освободите порт 8080 или измените порт в конфигурации вашего приложения, попробуйте перезапустить приложение. Если проблема будет решена, ваше приложение должно успешно запуститься." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702395761702" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/ZADANI.txt" />
+                  <option value="$PROJECT_DIR$/src/main/java/cz/fio/StoreContactApp.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="32ce32">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/ZADANI.txt" />
+                </list>
+              </option>
+              <option name="id" value="32ce32" />
+              <option name="initiateTms" value="1702395686568" />
+              <option name="request" value="Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.&#10;2023-12-12 16:39:17.460 ERROR 10380 --- [           main] o.s.b.d.LoggingFailureAnalysisReporter   : &#10;" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Сообщение об ошибке, которое вы прислали, указывает на проблему при запуске Spring Boot приложения. Ошибка говорит о том, что ApplicationContext не может быть запущен, и предлагает перезапустить приложение с включенным режимом отладки для получения более подробного отчета о состоянии.&#10;&#10;Чтобы включить отладку и увидеть более подробный отчет о состоянии, вы можете запустить ваше приложение с параметром `--debug` или добавить следующую строку в ваш `application.properties` или `application.yml` файл:&#10;&#10;Для `application.properties`:&#10;```&#10;debug=true&#10;```&#10;&#10;Для `application.yml`:&#10;```yaml&#10;debug: true&#10;```&#10;&#10;После включения отладки перезапустите ваше приложение. Это должно предоставить более подробный отчет о проблемах, которые могут препятствовать запуску вашего приложения. Посмотрите на этот отчет и ищите конкретные сообщения об ошибках, которые могут указывать на проблемы с конфигурацией, отсутствующие зависимости, проблемы с подключением к базе данных, неправильные настройки бинов и так далее.&#10;&#10;Если вы предоставите полный отчет об ошибках после включения отладки, я смогу предложить более конкретные шаги для решения проблемы." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702395718949" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/ZADANI.txt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="6b884d">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/ZADANI.txt" />
+                </list>
+              </option>
+              <option name="id" value="6b884d" />
+              <option name="initiateTms" value="1702395628197" />
+              <option name="isStopped" value="true" />
+              <option name="request" value="2023-12-12 16:39:17.460 ERROR 10380 --- [           main] o.s.b.d.LoggingFailureAnalysisReporter   : &#10;" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="&lt;em&gt;Dynamic context. Adding files:&lt;br/&gt;&lt;/em&gt;&lt;em&gt;No extra context to request.&#10;&lt;/em&gt;&lt;em&gt;&#10;&#10;&lt;/em&gt;It seems like you've pasted a part of a log file showing an error, but the error message is incomplete. To assist you effectively, I would need more information about the error you're encountering. Could you please provide the full error message or describe the issue you're facing in more detail?&#10;&#10;If you're looking to implement the task described in the `ZADANI.txt` file, I can guide you through creating a simple web service in Java that reads parameters from an HTTP GET request and appends them to a CSV file if the row does not already exist. Let me know if you want to proceed with this, and I can provide you with a step-by-step implementation or code snippets to help you accomplish the task." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702395643874" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/ZADANI.txt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="894bb2">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/ZADANI.txt" />
+                </list>
+              </option>
+              <option name="id" value="894bb2" />
+              <option name="initiateTms" value="1702395646377" />
+              <option name="request" value="на  русском" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Конечно, я могу помочь вам на русском языке. Вы прислали часть лога с ошибкой, но сообщение об ошибке неполное. Чтобы я мог вам помочь, мне нужно больше информации об ошибке, с которой вы столкнулись. Пожалуйста, предоставьте полное сообщение об ошибке или опишите вашу проблему более подробно.&#10;&#10;Если вам нужно реализовать задачу, описанную в файле `ZADANI.txt`, я могу помочь вам создать простой веб-сервис на Java, который будет читать параметры из HTTP GET запроса и добавлять их в CSV-файл, если такая строка ещё не существует. Если вы хотите продолжить с этим, я могу предоставить вам пошаговую инструкцию или фрагменты кода, чтобы помочь вам выполнить задачу." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1702395661610" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/ZADANI.txt" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
